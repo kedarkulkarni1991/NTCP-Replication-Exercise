@@ -1,0 +1,14 @@
+# NSS household microdata and anything derived from it at household level.
+# These are circulated privately (Google Drive), not redistributed here.
+data/analysis.rds
+data/tobacco_by_household.rds
+exercise/ntcp.rds
+exercise/ntcp.csv
+exercise/ntcp.csv.gz
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz

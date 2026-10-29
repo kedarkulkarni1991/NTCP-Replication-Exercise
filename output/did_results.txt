@@ -1,0 +1,29 @@
+households: 346,602   NTCP districts: 21   control districts: 858
+
+=== PART 1: any consumption in the household (odds ratios) ===
+
+--- bidi ---
+  DID1      OR  1.201  95% CI [ 0.675,  2.135]  p = 0.533
+  DID2      OR  1.400  95% CI [ 0.835,  2.347]  p = 0.201
+  n = 346,602
+
+--- cigarettes ---
+  DID1      OR  1.413  95% CI [ 0.856,  2.332]  p = 0.176
+  DID2      OR  1.795  95% CI [ 1.143,  2.818]  p = 0.011
+  n = 346,602
+
+=== PART 2: log sticks per person, among consuming households ===
+
+--- bidi ---
+  DID1         -0.092  95% CI [-0.498,  0.315]  p = 0.659
+  DID2         -0.064  95% CI [-0.340,  0.212]  p = 0.650
+  n = 87,465
+
+--- cigarettes ---
+  DID1         -0.464  95% CI [-1.123,  0.194]  p = 0.167
+  DID2          0.100  95% CI [-0.185,  0.384]  p = 0.493
+  n = 28,317
+
+DID1 tests parallel trends: both periods precede the programme, so a
+coefficient far from zero (OR far from 1) means the groups were already
+diverging and the design is in trouble before the NTCP is reached.

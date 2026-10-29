@@ -1,0 +1,137 @@
+round,phase,ntcp_state,ntcp_district,nss_state,state_code,nss_district,district_code,n_hits,how
+55,1,Assam,Kamrup,assam,4,Kamrup,7,1,state+district
+55,1,Assam,Jorhat,assam,4,Jorhat,15,1,state+district
+55,1,Delhi,New Delhi,,,,,0,NOT FOUND
+55,1,Delhi,East Delhi,sikkim,22,East (Gangtok),2,1,district only; state differs
+55,1,Gujarat,Vadodara,,,,,0,NOT FOUND
+55,1,Gujarat,Sabarkantha,gujarat,7,Sabar Kantha,9,1,state+district
+55,1,Karnataka,Bangalore,karnataka,11,Bangalore,1,2,state+district
+55,1,Karnataka,Bangalore,karnataka,11,(Urban) Bangalore,2,2,state+district
+55,1,Karnataka,Gulbarga,karnataka,11,Gulbarga,11,1,state+district
+55,1,Madhya Pradesh,Khandwa,madhya pradesh,13,(W. Nimar) Khandwa,25,1,state+district
+55,1,Madhya Pradesh,Gwalior,madhya pradesh,13,Gwalior,3,1,state+district
+55,1,Rajasthan,Jaipur,rajasthan,21,Jaipur,9,1,state+district
+55,1,Rajasthan,Jhunjhunu,,,,,0,NOT FOUND
+55,1,Tamil Nadu,Kancheepuram,,,,,0,NOT FOUND
+55,1,Tamil Nadu,Villupuram,tamil nadu,23,Villupuram,22,1,state+district
+55,1,Uttar Pradesh,Lucknow,uttar pradesh,25,Lucknow,32,1,state+district
+55,1,Uttar Pradesh,Kanpur,uttar pradesh,25,Kanpur Dehat,36,2,state+district
+55,1,Uttar Pradesh,Kanpur,uttar pradesh,25,Kanpur Nagar,37,2,state+district
+55,1,West Bengal,Cooch Behar,,,,,0,NOT FOUND
+55,1,West Bengal,Murshidabad,west bengal,26,Murshidabad,6,1,state+district
+55,2,Andhra Pradesh,Guntur,,,,,0,NOT FOUND
+55,2,Andhra Pradesh,Hyderabad,,,,,0,NOT FOUND
+55,2,Arunachal Pradesh,West Kameng,arunachal pradesh,3,West Kameng,3,1,state+district
+55,2,Arunachal Pradesh,East Siang,,,,,0,NOT FOUND
+55,2,Bihar,Patna,bihar,5,Patna,1,1,state+district
+55,2,Bihar,Munger,bihar,5,Munger,26,1,state+district
+55,2,Goa,North Goa,,,,,0,NOT FOUND
+55,2,Goa,South Goa,,,,,0,NOT FOUND
+55,2,Jharkhand,Dhanbad,bihar,5,Dhanbad,32,1,district only; state differs
+55,2,Jharkhand,Jamshedpur,bihar,5,Purbi Singhbhum,39,1,district only; state differs
+55,2,Maharashtra,Thane,maharashtra,14,Thane,2,1,state+district
+55,2,Maharashtra,Aurangabad,maharashtra,14,Aurangabad,15,1,state+district
+55,2,Mizoram,Aizawl,,,,,0,NOT FOUND
+55,2,Mizoram,Lunglei,mizoram,17,Lunglei,2,1,state+district
+55,2,Nagaland,Kohima,mizoram,17,Kohima,1,1,district only; state differs
+55,2,Nagaland,Dimapur,,,,,0,NOT FOUND
+55,2,Odisha,Cuttack,orissa,19,Cuttack,6,1,district only; state differs
+55,2,Odisha,Khurda,orissa,19,Khurda,19,1,district only; state differs
+55,2,Sikkim,East Sikkim,sikkim,22,East (Gangtok),2,1,state+district
+55,2,Sikkim,South Sikkim,,,,,0,NOT FOUND
+55,2,Tripura,West Tripura,,,,,0,NOT FOUND
+55,2,Tripura,Dhalai,,,,,0,NOT FOUND
+55,2,Uttarakhand,Dehradun,uttar pradesh,25,Dehra Dun,4,1,district only; state differs
+55,2,Uttarakhand,Tehri Garhwal,uttar pradesh,25,Tehri Garhwal,3,1,district only; state differs
+61,1,Assam,Kamrup,Arunachal Pradesh,18,Kamrup,6,1,district only; state differs
+61,1,Assam,Jorhat,Arunachal Pradesh,18,Jorhat,17,1,district only; state differs
+61,1,Delhi,New Delhi,Delhi,7,New Delhi,5,1,state+district
+61,1,Delhi,East Delhi,Delhi,7,East,4,1,state+district
+61,1,Gujarat,Vadodara,Gujarat,24,Vadodara,19,1,state+district
+61,1,Gujarat,Sabarkantha,Gujarat,24,Sabar Kantha,5,1,state+district
+61,1,Karnataka,Bangalore,Karnataka,29,Bangalore,20,2,state+district
+61,1,Karnataka,Bangalore,Karnataka,29,Bangalore ( Rural ),21,2,state+district
+61,1,Karnataka,Gulbarga,Karnataka,29,Gulbarga,4,1,state+district
+61,1,Madhya Pradesh,Khandwa,Madhya Pradesh,23,E. Nimar,29,1,state+district
+61,1,Madhya Pradesh,Gwalior,Madhya Pradesh,23,Gwalior,4,1,state+district
+61,1,Rajasthan,Jaipur,Rajasthan,8,Jaipur,12,1,state+district
+61,1,Rajasthan,Jhunjhunu,Rajasthan,8,Jhunjhunun,5,1,state+district
+61,1,Tamil Nadu,Kancheepuram,Tamilnadu,33,Kancheepuram,3,1,state+district
+61,1,Tamil Nadu,Villupuram,Tamilnadu,33,Viluppuram,7,1,state+district
+61,1,Uttar Pradesh,Lucknow,Uttar Pradesh,9,Lucknow,27,1,state+district
+61,1,Uttar Pradesh,Kanpur,Uttar Pradesh,9,Kanpur Dehat,33,2,state+district
+61,1,Uttar Pradesh,Kanpur,Uttar Pradesh,9,Kanpur Nagar,34,2,state+district
+61,1,West Bengal,Cooch Behar,West Bengal,19,Koch Bihar,3,1,state+district
+61,1,West Bengal,Murshidabad,West Bengal,19,Murshidabad,7,1,state+district
+61,2,Andhra Pradesh,Guntur,Andhra Pradesh,28,Guntur,17,1,state+district
+61,2,Andhra Pradesh,Hyderabad,Andhra Pradesh,28,Hyderabad,5,1,state+district
+61,2,Arunachal Pradesh,West Kameng,Arunachal Pradesh,12,West Kameng,2,1,state+district
+61,2,Arunachal Pradesh,East Siang,Arunachal Pradesh,12,East Siang,8,1,state+district
+61,2,Bihar,Patna,Bihar,10,Patna,28,1,state+district
+61,2,Bihar,Munger,Bihar,10,Munger,24,1,state+district
+61,2,Goa,North Goa,GOA,30,North Goa,1,1,state+district
+61,2,Goa,South Goa,GOA,30,South Goa,2,1,state+district
+61,2,Jharkhand,Dhanbad,Jharkhand,20,Dhanbad,12,1,state+district
+61,2,Jharkhand,Jamshedpur,Jharkhand,20,Singhbhum    (E),18,1,state+district
+61,2,Maharashtra,Thane,Maharashtra,27,Thane,21,1,state+district
+61,2,Maharashtra,Aurangabad,Maharashtra,27,Aurangabad,19,1,state+district
+61,2,Mizoram,Aizawl,Mizoram,15,Aizwal,3,1,state+district
+61,2,Mizoram,Lunglei,Mizoram,15,Lunglei,6,1,state+district
+61,2,Nagaland,Kohima,Nagaland,13,Kohima,7,1,state+district
+61,2,Nagaland,Dimapur,Nagaland,13,Dimapur,6,1,state+district
+61,2,Odisha,Cuttack,Orissa,21,Cuttack,12,1,district only; state differs
+61,2,Odisha,Khurda,Orissa,21,Khordha,17,1,district only; state differs
+61,2,Sikkim,East Sikkim,Sikkim,11,East ( Gangtok ),4,1,state+district
+61,2,Sikkim,South Sikkim,Sikkim,11,South  ( Nimachai ),3,1,state+district
+61,2,Tripura,West Tripura,Tripura,16,West Tripura,1,1,state+district
+61,2,Tripura,Dhalai,Tripura,16,Dhalai,3,1,state+district
+61,2,Uttarakhand,Dehradun,Uttaranchal,5,Dehradun,5,1,district only; state differs
+61,2,Uttarakhand,Tehri Garhwal,Uttaranchal,5,Tehri Garhwal,4,1,district only; state differs
+68,1,Assam,Kamrup,,18,Kamrup,6,1,state+district
+68,1,Assam,Jorhat,,18,Jorhat,17,1,state+district
+68,1,Delhi,New Delhi,,7,New Delhi,5,1,state+district
+68,1,Delhi,East Delhi,,7,East,4,2,district only; state differs
+68,1,Delhi,East Delhi,,11,East,4,2,district only; state differs
+68,1,Gujarat,Vadodara,,24,Vadodara,19,1,state+district
+68,1,Gujarat,Sabarkantha,,24,Sabar Kantha,5,1,state+district
+68,1,Karnataka,Bangalore,,29,Bangalore,20,1,state+district
+68,1,Karnataka,Gulbarga,,29,Gulbarga,4,1,state+district
+68,1,Madhya Pradesh,Khandwa,,23,East Nimar,29,1,state+district
+68,1,Madhya Pradesh,Gwalior,,23,Gwalior,4,1,state+district
+68,1,Rajasthan,Jaipur,,8,Jaipur,12,1,state+district
+68,1,Rajasthan,Jhunjhunu,,8,Jhunjhunun,5,1,state+district
+68,1,Tamil Nadu,Kancheepuram,,33,Kancheepuram,3,1,state+district
+68,1,Tamil Nadu,Villupuram,,33,Viluppuram,7,1,state+district
+68,1,Uttar Pradesh,Lucknow,,9,Lucknow,27,1,state+district
+68,1,Uttar Pradesh,Kanpur,,9,Kanpur Dehat,33,2,state+district
+68,1,Uttar Pradesh,Kanpur,,9,Kanpur Nagar,34,2,state+district
+68,1,West Bengal,Cooch Behar,,19,Koch Bihar,3,1,state+district
+68,1,West Bengal,Murshidabad,,19,Murshidabad,7,1,state+district
+68,2,Andhra Pradesh,Guntur,,28,Guntur,17,1,state+district
+68,2,Andhra Pradesh,Hyderabad,,,,,0,NOT FOUND
+68,2,Arunachal Pradesh,West Kameng,,12,West Kameng,2,1,state+district
+68,2,Arunachal Pradesh,East Siang,,12,East Siang,8,1,state+district
+68,2,Bihar,Patna,,10,Patna,28,1,state+district
+68,2,Bihar,Munger,,10,Munger,24,1,state+district
+68,2,Goa,North Goa,,30,North Goa,1,1,state+district
+68,2,Goa,South Goa,,30,South Goa,2,1,state+district
+68,2,Jharkhand,Dhanbad,,20,Dhanbad,12,1,state+district
+68,2,Jharkhand,Jamshedpur,,20,Purbi Singhbhum,18,1,state+district
+68,2,Maharashtra,Thane,,27,Thane,21,1,state+district
+68,2,Maharashtra,Aurangabad,,10,Aurangabad,34,2,district only; state differs
+68,2,Maharashtra,Aurangabad,,27,Aurangabad,19,2,district only; state differs
+68,2,Mizoram,Aizawl,,15,Aizawl,3,1,state+district
+68,2,Mizoram,Lunglei,,15,Lunglei,6,1,state+district
+68,2,Nagaland,Kohima,,13,Kohima,7,1,state+district
+68,2,Nagaland,Dimapur,,13,Dimapur,6,1,state+district
+68,2,Odisha,Cuttack,,21,Cuttack,12,1,state+district
+68,2,Odisha,Khurda,,21,Khordha,17,1,state+district
+68,2,Sikkim,East Sikkim,,7,East,4,2,district only; state differs
+68,2,Sikkim,East Sikkim,,11,East,4,2,district only; state differs
+68,2,Sikkim,South Sikkim,,7,South,9,2,district only; state differs
+68,2,Sikkim,South Sikkim,,11,South,3,2,district only; state differs
+68,2,Tripura,West Tripura,,16,West Tripura,1,1,state+district
+68,2,Tripura,Dhalai,,16,Dhalai,3,1,state+district
+68,2,Uttarakhand,Dehradun,,5,Dehradun,5,2,state+district
+68,2,Uttarakhand,Dehradun,,5,Dehradun(Hills),15,2,state+district
+68,2,Uttarakhand,Tehri Garhwal,,5,Tehri Garhwal,4,1,state+district

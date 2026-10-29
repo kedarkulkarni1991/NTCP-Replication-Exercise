@@ -1,0 +1,64 @@
+round,ntcp_state,ntcp_district,state_code,district_code,nss_district
+55,Assam,Kamrup,4,7,Kamrup
+55,Assam,Jorhat,4,15,Jorhat
+55,Gujarat,Sabarkantha,7,9,Sabar Kantha
+55,Karnataka,Gulbarga,11,11,Gulbarga
+55,Madhya Pradesh,Khandwa,13,25,(W. Nimar) Khandwa
+55,Madhya Pradesh,Gwalior,13,3,Gwalior
+55,Rajasthan,Jaipur,21,9,Jaipur
+55,Tamil Nadu,Villupuram,23,22,Villupuram
+55,Uttar Pradesh,Lucknow,25,32,Lucknow
+55,West Bengal,Murshidabad,26,6,Murshidabad
+55,Arunachal Pradesh,West Kameng,3,3,West Kameng
+55,Bihar,Patna,5,1,Patna
+55,Bihar,Munger,5,26,Munger
+55,Jharkhand,Dhanbad,5,32,Dhanbad
+55,Jharkhand,Jamshedpur,5,39,Purbi Singhbhum
+55,Maharashtra,Thane,14,2,Thane
+55,Mizoram,Lunglei,17,2,Lunglei
+55,Nagaland,Kohima,17,1,Kohima
+55,Odisha,Cuttack,19,6,Cuttack
+55,Odisha,Khurda,19,19,Khurda
+55,Uttarakhand,Tehri Garhwal,25,3,Tehri Garhwal
+61,Assam,Kamrup,18,6,Kamrup
+61,Assam,Jorhat,18,17,Jorhat
+61,Gujarat,Sabarkantha,24,5,Sabar Kantha
+61,Karnataka,Gulbarga,29,4,Gulbarga
+61,Madhya Pradesh,Khandwa,23,29,E. Nimar
+61,Madhya Pradesh,Gwalior,23,4,Gwalior
+61,Rajasthan,Jaipur,8,12,Jaipur
+61,Tamil Nadu,Villupuram,33,7,Viluppuram
+61,Uttar Pradesh,Lucknow,9,27,Lucknow
+61,West Bengal,Murshidabad,19,7,Murshidabad
+61,Arunachal Pradesh,West Kameng,12,2,West Kameng
+61,Bihar,Patna,10,28,Patna
+61,Bihar,Munger,10,24,Munger
+61,Jharkhand,Dhanbad,20,12,Dhanbad
+61,Jharkhand,Jamshedpur,20,18,Singhbhum    (E)
+61,Maharashtra,Thane,27,21,Thane
+61,Mizoram,Lunglei,15,6,Lunglei
+61,Nagaland,Kohima,13,7,Kohima
+61,Odisha,Cuttack,21,12,Cuttack
+61,Odisha,Khurda,21,17,Khordha
+61,Uttarakhand,Tehri Garhwal,5,4,Tehri Garhwal
+68,Assam,Kamrup,18,6,Kamrup
+68,Assam,Jorhat,18,17,Jorhat
+68,Gujarat,Sabarkantha,24,5,Sabar Kantha
+68,Karnataka,Gulbarga,29,4,Gulbarga
+68,Madhya Pradesh,Khandwa,23,29,East Nimar
+68,Madhya Pradesh,Gwalior,23,4,Gwalior
+68,Rajasthan,Jaipur,8,12,Jaipur
+68,Tamil Nadu,Villupuram,33,7,Viluppuram
+68,Uttar Pradesh,Lucknow,9,27,Lucknow
+68,West Bengal,Murshidabad,19,7,Murshidabad
+68,Arunachal Pradesh,West Kameng,12,2,West Kameng
+68,Bihar,Patna,10,28,Patna
+68,Bihar,Munger,10,24,Munger
+68,Jharkhand,Dhanbad,20,12,Dhanbad
+68,Jharkhand,Jamshedpur,20,18,Purbi Singhbhum
+68,Maharashtra,Thane,27,21,Thane
+68,Mizoram,Lunglei,15,6,Lunglei
+68,Nagaland,Kohima,13,7,Kohima
+68,Odisha,Cuttack,21,12,Cuttack
+68,Odisha,Khurda,21,17,Khordha
+68,Uttarakhand,Tehri Garhwal,5,4,Tehri Garhwal

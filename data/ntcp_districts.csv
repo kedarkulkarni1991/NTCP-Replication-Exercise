@@ -1,0 +1,43 @@
+phase,state,district,note
+1,Assam,Kamrup,
+1,Assam,Jorhat,paper writes "Johrat"
+1,Delhi,New Delhi,
+1,Delhi,East Delhi,
+1,Gujarat,Vadodara,
+1,Gujarat,Sabarkantha,
+1,Karnataka,Bangalore,
+1,Karnataka,Gulbarga,
+1,Madhya Pradesh,Khandwa,
+1,Madhya Pradesh,Gwalior,
+1,Rajasthan,Jaipur,
+1,Rajasthan,Jhunjhunu,
+1,Tamil Nadu,Kancheepuram,
+1,Tamil Nadu,Villupuram,
+1,Uttar Pradesh,Lucknow,
+1,Uttar Pradesh,Kanpur,splits into Kanpur Nagar and Kanpur Dehat
+1,West Bengal,Cooch Behar,
+1,West Bengal,Murshidabad,
+2,Andhra Pradesh,Guntur,
+2,Andhra Pradesh,Hyderabad,
+2,Arunachal Pradesh,West Kameng,
+2,Arunachal Pradesh,East Siang,
+2,Bihar,Patna,
+2,Bihar,Munger,
+2,Goa,North Goa,
+2,Goa,South Goa,
+2,Jharkhand,Dhanbad,in Bihar before Nov 2000
+2,Jharkhand,Jamshedpur,a city; district is East Singhbhum; in Bihar before Nov 2000
+2,Maharashtra,Thane,
+2,Maharashtra,Aurangabad,
+2,Mizoram,Aizawl,
+2,Mizoram,Lunglei,
+2,Nagaland,Kohima,
+2,Nagaland,Dimapur,carved out of Kohima in 1997
+2,Odisha,Cuttack,
+2,Odisha,Khurda,
+2,Sikkim,East Sikkim,
+2,Sikkim,South Sikkim,
+2,Tripura,West Tripura,
+2,Tripura,Dhalai,paper writes "Dhalai District"
+2,Uttarakhand,Dehradun,in Uttar Pradesh before Nov 2000
+2,Uttarakhand,Tehri Garhwal,paper writes "Tehri Gadhwal"; in UP before Nov 2000

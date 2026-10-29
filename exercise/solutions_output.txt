@@ -1,0 +1,101 @@
+
+
+##### Q1 load and describe #####
+
+[1] 346602     18
+           treated
+year             0      1
+  1999-2000 112854   7455
+  2004-05   118923   5719
+  2011-12    97241   4410
+
+
+##### Q1b districts in each group #####
+
+   treated control
+55      21     484
+61      21     564
+68      21     604
+
+
+##### Q2 is this a panel? #####
+
+     households appearing_twice            rows 
+         346602               0          346602 
+
+
+##### Q3 prevalence by year and group, % #####
+
+       year ntcp any_bidi any_cig
+1 1999-2000    0     29.0     7.7
+2   2004-05    0     27.1     7.6
+3   2011-12    0     19.0     9.4
+4 1999-2000    1     22.8     9.9
+5   2004-05    1     24.7     6.7
+6   2011-12    1     19.6     9.0
+
+
+##### Q4 difference-in-differences by hand, bidi prevalence #####
+
+       year
+treated 1999-2000 2004-05 2011-12
+      0     29.01   27.09   19.05
+      1     22.84   24.69   19.57
+change_treated change_control            DiD 
+         -3.27          -9.96           6.69 
+
+
+##### Q5 the same thing as a regression (linear probability model) #####
+
+            Estimate Std. Error  t value Pr(>|t|)
+(Intercept)   0.2901     0.0013 228.8800        0
+ntcp         -0.0617     0.0051 -12.1132        0
+t3           -0.0996     0.0019 -53.4696        0
+ntcp:t3       0.0669     0.0083   8.0563        0
+
+
+##### Q6 all three rounds, with controls and clustered standard errors #####
+
+        Estimate Std. Error t value Pr(>|t|)
+ntcp     -0.0365     0.0357 -1.0211   0.3072
+t2        0.0241     0.0156  1.5497   0.1212
+t3       -0.0475     0.0145 -3.2672   0.0011
+ntcp:t2   0.0392     0.0500  0.7849   0.4325
+ntcp:t3   0.0620     0.0427  1.4501   0.1470
+
+
+##### Q7 part 1 of the two-part model: logit, odds ratios #####
+
+        OR    lo    hi     p
+DID1 1.201 0.675 2.135 0.533
+DID2 1.400 0.835 2.347 0.201
+
+
+##### Q8 part 2: log sticks per person, among consuming households #####
+
+        Estimate Std. Error t value Pr(>|t|)
+ntcp:t2  -0.0915     0.2073 -0.4415   0.6588
+ntcp:t3  -0.0640     0.1408 -0.4541   0.6497
+n_consuming 
+      87465 
+
+
+##### Q9 the pre-trend test on its own #####
+
+   OR    lo    hi     p 
+1.201 0.675 2.135 0.533 
+
+
+##### Q10 cigarettes, for comparison #####
+
+        OR    lo    hi     p
+DID1 1.413 0.856 2.332 0.176
+DID2 1.795 1.143 2.818 0.011
+
+
+##### figure #####
+
+wrote trends.png
+
+
+##### end #####
